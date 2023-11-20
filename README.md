@@ -50,7 +50,8 @@ Y para realizarlo he siguido los siguientes pasos
 
 ## EJERCICIO 4
 En este ejercicio teniamos el siguiente enunciado:
->Recopila todos los ejercicios anteriores en un documento estilo memoria. Además, entrégalo todo subiéndolo a tu >Github personal y haciéndolo público. Envía el link del repositorio en la entrega.
+>Recopila todos los ejercicios anteriores en un documento estilo memoria. Además, entrégalo todo subiéndolo a tu Github personal y haciéndolo público. Envía el link del repositorio en la entrega.
+
 
 Que basicamente es lo que he hecho en este repositorio asi que no creo que tenga que explicar nada mas.
 
