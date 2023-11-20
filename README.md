@@ -44,7 +44,7 @@ Y para realizarlo he siguido los siguientes pasos
 2. Crear un archivo html con el editor de textos nano ![modificarhtml](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarhtml.png)
 3. Devemos ejecutar estos tres comandos `cd /etc/apache2/sites-available/` `sudo cp 000-default.conf gci.conf` `sudo nano gci.conf` para crear el archivo de configuracion
 4. Modificamos el archivo de configuracion de la siguiente manera: ![modificar config](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarconfig.png)
-5. Modificar el archivo hostsañadiendo la 3 linea de texto de la imagen: ![modificarhosts](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarelarchivohost.png)
+5. Modificar el archivo hosts añadiendo la 3 linea de texto de la imagen: ![modificarhosts](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarelarchivohost.png)
 6. Una vez hechos estos pasos se puede acceder a la pagina web creada poninendo el el buscador *daw.ejercicio3.com*
 
 
