@@ -28,4 +28,17 @@ Después, mediante otro comando, concatena al final del archivo el resultado del
 
 Para realizarlo he seguido los siguientes pasos:
 
-1. contectarme al servidor mediante ssh:
+1. Contectarme al servidor mediante ssh:![conectarme al servidor](https://github.com/IvanYeste/ExamenDAW/blob/main/ConectarSSH.png)
+2. Crear el archivo en el escritorio del servidor: ![crear archivo ](https://github.com/IvanYeste/ExamenDAW/blob/main/EscribirArchivo.png)
+3. Escribir contenido en el mediante el editor de texto nano, en este caso havia que escribir el resultado del comando *'whoami'*
+4. Concatenar al texto del archivo el resultado del comando *'who'* para saber quein esta conectado ![concatenar](https://github.com/IvanYeste/ExamenDAW/blob/main/Concatenar.png)
+5. Desconectarme del servidor y listo.
+
+
+## EJERCICIO 3
+En este ejercicio teniamos que seguir el siguiente enunciado:
+>Documenta todos los pasos realizados en un archivo MarkDown. Crea en tu máquina un virtualhost donde escribiendo “daw.ejercicio3.com” nos envíe a una web local que simplemente contenga tu nombre. No cierres la máquina al acabar el >examen para poder comprobar su funcionamiento.
+
+Y para realizarlo he siguido los siguientes pasos
+1. Crear una carpeta con el siguiente comando `sudo mkdir /var/www/gci`
+2. Crear un archivo htmlc con el editor de textos nano 
