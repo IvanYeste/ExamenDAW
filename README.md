@@ -8,7 +8,7 @@ Este documento es una pequeña memoria realizada para el examen de la primera ev
 3. Virtualhost (2 puntos)
 4. Documentacion + Github(2 puntos)
    
->Mas adelante explicare cada uno de estos 4 puntos por separado.
+Mas adelante explicare cada uno de estos 4 puntos por separado.
 
 
 **Contexto:** Este proyecto se realiza en situación de un **examen** para la asignatura de **DAW** , concretamente de las 15:00 de la terde a las 18:30 con un total de **3 horas y media** para realizar los 4 ejercicios.Utilizaremos las erramientas de ubuntu y su terminal para realizar la mayoria de los ejercicios ademas de guithub.
@@ -41,4 +41,22 @@ En este ejercicio teniamos que seguir el siguiente enunciado:
 
 Y para realizarlo he siguido los siguientes pasos
 1. Crear una carpeta con el siguiente comando `sudo mkdir /var/www/gci`
-2. Crear un archivo htmlc con el editor de textos nano 
+2. Crear un archivo html con el editor de textos nano ![modificarhtml](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarhtml.png)
+3. Devemos ejecutar estos tres comandos `cd /etc/apache2/sites-available/` `sudo cp 000-default.conf gci.conf` `sudo nano gci.conf` para crear el archivo de configuracion
+4. Modificamos el archivo de configuracion de la siguiente manera: ![modificar config](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarconfig.png)
+5. Modificar el archivo hostsañadiendo la 3 linea de texto de la imagen: ![modificarhosts](https://github.com/IvanYeste/ExamenDAW/blob/main/modificarelarchivohost.png)
+6. Una vez hechos estos pasos se puede acceder a la pagina web creada poninendo el el buscador *daw.ejercicio3.com*
+
+
+## EJERCICIO 4
+En este ejercicio teniamos el siguiente enunciado:
+>Recopila todos los ejercicios anteriores en un documento estilo memoria. Además, entrégalo todo subiéndolo a tu >Github personal y haciéndolo público. Envía el link del repositorio en la entrega.
+
+Que basicamente es lo que he hecho en este repositorio asi que no creo que tenga que explicar nada mas.
+
+
+## Conclusión
+Ha sido un examen ligero ya que la **dificultad no era muy elevada** aunque se tiene que tener algo de conocimiento previo sobre el tema y no solo mirar los apuntes ya que sino te puedes atascar en algun paso.
+
+
+
